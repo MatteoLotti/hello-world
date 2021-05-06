@@ -1,2 +1,2 @@
 # hello-world
-Simple github repository
+Simple github repository used to learning
